@@ -11,13 +11,13 @@ redirect_from:
 
 My CV if pdf is available at this [link](/files/dgudovskiy_resume.pdf).
 
-**November 2016 to present: Senior Deep Learning Researcher, Panasonic AI Lab, Mountain View, CA.** Conducted research related to perception of autonomous vehicles including development of HW-efficient DNN models, semi/self-supervised learning and dataset optimization methods. Most of the open-sourced projects can be found on [Publications page](/publications/) and [GitHub repositories](https://github.com/gudovskiy).
+**11/2016 - present: Senior Deep Learning Researcher, Panasonic AI Lab, Mountain View, CA.** Conducted research related to perception of autonomous vehicles including development of HW-efficient DNN models, semi/self-supervised learning and dataset optimization methods. Most of the open-sourced projects can be found on [Publications page](/publications/) and [GitHub repositories](https://github.com/gudovskiy).
 
-**January 2016 to November 2016: Senior Wireless Engineer, Intel Corp, Santa Clara, CA.** R&D of 5G modem baseband for ASIC/FPGA realization. Simulated MIMO receivers: MMSE/ML demodulators, noise-whitening, LLR calculation etc.
+**1/2016 - 11/2016: Senior Wireless Engineer, Intel Corp, Santa Clara, CA.** R&D of 5G modem baseband for ASIC/FPGA realization. Simulated MIMO receivers: MMSE/ML demodulators, noise-whitening, LLR calculation etc.
 
-**October 2013 to December 2015: Senior Systems Engineer, Olympus Corp R&D, San Diego, CA.** Designed a complete modem including floating/fixed point models in MATLAB/C++. Developed a system model of ultra low power RFIC chip
+**10/2013 - 12/2015: Senior Systems Engineer, Olympus Corp R&D, San Diego, CA.** Designed a complete modem including floating/fixed point models in MATLAB/C++. Developed a system model of ultra low power RFIC chip
 
-**June 2010 to September 2013: Senior Algorithm Developer, Huawei Technologies, Moscow, Russia.** Developed proprietary algorithms: linear/nonlinear filtration, adaptive filters, ANNs. Simulated and implemented fixed-point algorithms on Xilinx Virtex FPGAs.
+**6/2010 - 9/2013: Senior Algorithm Developer, Huawei Technologies, Moscow, Russia.** Developed proprietary algorithms: linear/nonlinear filtration, adaptive filters, ANNs. Simulated and implemented fixed-point algorithms on Xilinx Virtex FPGAs.
 
 Education
 ======
