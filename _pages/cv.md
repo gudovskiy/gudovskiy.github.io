@@ -11,6 +11,8 @@ redirect_from:
 
 My CV if pdf is available at this [link](/files/dgudovskiy_resume.pdf).
 
+Work Experience
+======
 **11/2016 - present: Senior Deep Learning Researcher, Panasonic AI Lab, Mountain View, CA.** Conducted research related to perception of autonomous vehicles including development of HW-efficient DNN models, semi/self-supervised learning and dataset optimization methods. Most of the open-sourced projects can be found on [Publications page](/publications/) and [GitHub repositories](https://github.com/gudovskiy).
 
 **1/2016 - 11/2016: Senior Wireless Engineer, Intel Corp, Santa Clara, CA.** R&D of 5G modem baseband for ASIC/FPGA realization. Simulated MIMO receivers: MMSE/ML demodulators, noise-whitening, LLR calculation etc.
