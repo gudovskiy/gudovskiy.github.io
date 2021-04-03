@@ -17,7 +17,7 @@ Hi, my name is Denis and I work at Panasonic AI Lab in Mountain View office. My 
 
 ## Bio
 
-Denis Gudovskiy is a senior researcher at Panasonic AI lab in Mountain View. He specializes on deep learning-based algorithms for AI applications. His portfolio of research projects includes optimization of deep neural networks for edge AI devices, explainable AI tools, and automatic dataset management for computer vision applications. Before joining Panasonic in 2016, Denis held research and engineering positions in Intel, Olympus and Huawei wireless divisions. Denis received his M.Sc. in Computer Engineering from the University of Texas, Austin in 2008.
+Denis Gudovskiy is a senior researcher at Panasonic AI lab in Mountain View. He specializes in deep learning-based algorithms for AI applications. His portfolio of research projects includes optimization of deep neural networks for edge AI devices, explainable AI tools, and automatic dataset management for computer vision applications. Before joining Panasonic in 2016, Denis held research and engineering positions in Intel, Olympus and Huawei wireless divisions. Denis received his M.Sc. in Computer Engineering from the University of Texas, Austin in 2008.
 
 In one of such projects he proposed and implemented a method of hardware-efficient neural network quantization and compression techniques for autonomous vehicles with stringent power and performance requirements. In the most recent work, Denis has demonstrated how data annotation costs could be significantly reduced with a use of advanced algorithms. His papers and demos are presented and published in top-tier machine learning and computer vision conferences such as NeurIPS, CVPR, ECCV, ICLR and ICASSP.
 
