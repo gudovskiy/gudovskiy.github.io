@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Denis website"
+title                    : "Denis Page"
 title_separator          : "-"
 name                     : &name "Denis Gudovskiy"
 description              : &description "Denis Gudovskiy's website about Machine and Deep Learning Research for Computer Vision Applications"
