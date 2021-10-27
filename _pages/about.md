@@ -12,6 +12,7 @@ Hi, my name is Denis and I work at Panasonic AI Lab in Mountain View office. My 
 
 ## News
 
+- October 2021: Our paper called "Contrastive Neural Processes for Self-Supervised Learning" has been accepted to [ACML'21 (oral)](http://www.acml-conf.org/2021/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2110.13623).
 - August 2021: Our paper called "CFLOW-AD: Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows" has been accepted to [WACV'22](http://wacv2022.thecvf.com/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2107.12571).
 - March 2021: Our paper called "AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation" has been accepted to [CVPR'21](http://cvpr2021.thecvf.com/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2103.05863).
 - March 2020: Our paper called "Deep Active Learning for Biased Datasets via Fisher Kernel Self-Supervision" has been accepted to [CVPR'20](http://cvpr2020.thecvf.com/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2003.00393).
