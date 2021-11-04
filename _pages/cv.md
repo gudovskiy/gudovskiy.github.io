@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV if pdf is available at this [link](/files/dgudovskiy_resume.pdf).
+My .pdf CV is available at this [link](/files/dgudovskiy_resume.pdf).
 
 Work Experience
 ======
