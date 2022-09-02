@@ -11,7 +11,7 @@ redirect_from:
 Hi, my name is Denis and I work at Panasonic AI Lab in Mountain View office. My research projects belong to general Machine Learning area and, more specifically, they are focused on various aspects of recent Deep Learning methods for Computer Vision applications (see [a short bio](#bio) below). This is my personal page with recent [publications](/publications/), [talks](/talks/), and [CV](/cv/) updates. In my free time, I enjoy riding motorcycles and mountaineering in Sierra Nevada.
 
 ## News
-
+- September 2022: In collaboration with UC Berkeley, our paper called "MTTrans: Cross-Domain Object Detection with Mean-Teacher Transformer" has been accepted to [ECCV'22](https://eccv2022.ecva.net)! Preprint is available on [ArXiv](https://arxiv.org/abs/2205.01643).
 - October 2021: Our paper called "Contrastive Neural Processes for Self-Supervised Learning" has been accepted to [ACML'21 (oral)](http://www.acml-conf.org/2021/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2110.13623).
 - August 2021: Our paper called "CFLOW-AD: Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows" has been accepted to [WACV'22](http://wacv2022.thecvf.com/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2107.12571).
 - March 2021: Our paper called "AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation" has been accepted to [CVPR'21](http://cvpr2021.thecvf.com/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2103.05863).
