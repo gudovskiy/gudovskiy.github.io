@@ -11,6 +11,7 @@ redirect_from:
 Hi, my name is Denis and I work at Panasonic AI Lab in Mountain View office. My research projects belong to general Machine Learning area and, more specifically, they are focused on various aspects of recent Deep Learning methods for Computer Vision applications (see [a short bio](#bio) below). This is my personal page with recent [publications](/publications/), [talks](/talks/), and [CV](/cv/) updates. In my free time, I enjoy riding motorcycles and mountaineering in Sierra Nevada.
 
 ## News
+- Aug 2026: I gave a talk at [Embedded Vision Summit](https://gudovskiy.github.io/talks/2026-05-11-talk-4) in May and [Ai4 conference](https://ai4.io/).
 - Feb 2026: In collaboration with UC Berkeley, our paper called “Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment” has been accepted to [CVPR’26](https://cvpr.thecvf.com/Conferences/2026/)! Preprint is available on [ArXiv](https://arxiv.org/abs/2605.08064).
 - Oct 2025: Our paper called "ODEt(ODEl): Shortcutting the Time and the Length in Diffusion and Flow Models for Faster Sampling" has been accepted to [WACV'26](https://wacv.thecvf.com/Conferences/2026)! Preprint is available on [ArXiv](https://arxiv.org/abs/2506.21714).
 - May 2025: In collaboration with UC Berkeley, our paper called “SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference” has been accepted to [ICML'25](https://icml.cc/Conferences/2025)! Preprint is available on [ArXiv](https://arxiv.org/abs/2410.04417).
